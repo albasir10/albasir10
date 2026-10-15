@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 240 240">
+ <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#42C6FF"/><stop offset="1" stop-color="#0669F8"/></linearGradient></defs>
+ <!-- sharply engineered A: separated blades, broad readable silhouette -->
+ <path d="M30 196 L102 43 Q107 32 118 32 L131 32 L78 196 Z" fill="#F5FAFF"/>
+ <path d="M131 43 L199 196 L161 196 L114 93 Z" fill="#D3E8FF"/>
+ <path d="M30 160 C74 129 135 122 218 90 C192 129 124 158 30 168 Z" fill="url(#b)"/>
+</svg>
